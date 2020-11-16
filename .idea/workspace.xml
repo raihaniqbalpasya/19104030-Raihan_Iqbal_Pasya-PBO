@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1bfa37bf-11de-439f-bfbf-29afd3c07eb7" name="Default Changelist" comment="" />
+    <list default="true" id="1bfa37bf-11de-439f-bfbf-29afd3c07eb7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PraktikumPBO/out/production/PraktikumPBO/id/raihan/Pertemuan1/Praktikum/Constructor/Manusia.class" beforeDir="false" afterPath="$PROJECT_DIR$/PraktikumPBO/out/production/PraktikumPBO/id/raihan/Pertemuan1/Praktikum/Constructor/Manusia.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PraktikumPBO/out/production/PraktikumPBO/id/raihan/Pertemuan1/Praktikum/Objek/Mahasiswa.class" beforeDir="false" afterPath="$PROJECT_DIR$/PraktikumPBO/out/production/PraktikumPBO/id/raihan/Pertemuan1/Praktikum/Objek/Mahasiswa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PraktikumPBO/out/production/PraktikumPBO/id/raihan/Pertemuan1/Tugas/No1_Method/TugasNo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/PraktikumPBO/out/production/PraktikumPBO/id/raihan/Pertemuan1/Tugas/No1_Method/TugasNo1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PraktikumPBO/out/production/PraktikumPBO/id/raihan/Pertemuan2/Tugas/No1_Overloading/Club.class" beforeDir="false" afterPath="$PROJECT_DIR$/PraktikumPBO/out/production/PraktikumPBO/id/raihan/Pertemuan2/Tugas/No1_Overloading/Club.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PraktikumPBO/out/production/PraktikumPBO/id/raihan/Pertemuan2/Tugas/No2_Pewarisan/Binatang.class" beforeDir="false" afterPath="$PROJECT_DIR$/PraktikumPBO/out/production/PraktikumPBO/id/raihan/Pertemuan2/Tugas/No2_Pewarisan/Binatang.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PraktikumPBO/out/production/PraktikumPBO/id/raihan/Pertemuan2/Tugas/No2_Pewarisan/Ikan.class" beforeDir="false" afterPath="$PROJECT_DIR$/PraktikumPBO/out/production/PraktikumPBO/id/raihan/Pertemuan2/Tugas/No2_Pewarisan/Ikan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PraktikumPBO/out/production/PraktikumPBO/id/raihan/Pertemuan3/Tugas/No2_Agregasi/Planet.class" beforeDir="false" afterPath="$PROJECT_DIR$/PraktikumPBO/out/production/PraktikumPBO/id/raihan/Pertemuan3/Tugas/No2_Agregasi/Planet.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
